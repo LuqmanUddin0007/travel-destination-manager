@@ -1,6 +1,6 @@
 # Travel Destination Manager
 
-REST API built with Symfony 7, PHP 8.2, and MySQL for managing travel destinations.
+REST API built with Symfony 7, PHP 8.2 and MySQL for managing travel destinations.
 
 ## Setup
 
